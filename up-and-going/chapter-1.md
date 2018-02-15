@@ -1,3 +1,5 @@
+[Terug naar inhoudsopgave](./index.md)
+
 # Hoofdstuk 1: Into Programming
 ## Code
 Een *program* is een set speciale instructie die de computer vertelt welke taken het moet uitvoeren, opgeslagen in een tekstbestand.

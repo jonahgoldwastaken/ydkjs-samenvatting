@@ -1,3 +1,5 @@
+[Terug naar inhoudsopgave](./index.md)
+
 # Hoofdstuk 2: Into JavaScript
 ## Values & Types
 In JS hebben variabelen geen type, maar waardes wel. Deze types zijn er beschikbaar:
